@@ -1,0 +1,11 @@
+C:\Users\dell\Documents\Kuliah\PRG\PRG2\PRG2_20192_P1_4_10\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_10.exe
+C:\Users\dell\Documents\Kuliah\PRG\PRG2\PRG2_20192_P1_4_10\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_10.deps.json
+C:\Users\dell\Documents\Kuliah\PRG\PRG2\PRG2_20192_P1_4_10\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_10.runtimeconfig.json
+C:\Users\dell\Documents\Kuliah\PRG\PRG2\PRG2_20192_P1_4_10\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_10.runtimeconfig.dev.json
+C:\Users\dell\Documents\Kuliah\PRG\PRG2\PRG2_20192_P1_4_10\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_10.dll
+C:\Users\dell\Documents\Kuliah\PRG\PRG2\PRG2_20192_P1_4_10\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_10.pdb
+C:\Users\dell\Documents\Kuliah\PRG\PRG2\PRG2_20192_P1_4_10\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_10.csprojAssemblyReference.cache
+C:\Users\dell\Documents\Kuliah\PRG\PRG2\PRG2_20192_P1_4_10\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_10.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\Kuliah\PRG\PRG2\PRG2_20192_P1_4_10\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_10.AssemblyInfo.cs
+C:\Users\dell\Documents\Kuliah\PRG\PRG2\PRG2_20192_P1_4_10\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_10.dll
+C:\Users\dell\Documents\Kuliah\PRG\PRG2\PRG2_20192_P1_4_10\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_10.pdb
